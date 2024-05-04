@@ -3,7 +3,7 @@ anyio==4.3.0
 click==8.1.7
 exceptiongroup==1.2.1
 fastapi==0.110.2
-fastapi-tarpit==1.0.1
+fastapi-tarpit==1.0.2
 h11==0.14.0
 idna==3.7
 pydantic==2.7.1
